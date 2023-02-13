@@ -1,2 +1,4 @@
 #!/bib/bash
-echo ABc | tr Ac Ze
+$ -> echo Aca | tr Ac Ze
+
+Zea
