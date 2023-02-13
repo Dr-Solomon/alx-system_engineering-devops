@@ -1,2 +1,2 @@
-#!/bib/bash
-$ -> echo Aca | tr Ac Ze
+#!/bin/bash
+echo $word | tr Ac Ze
